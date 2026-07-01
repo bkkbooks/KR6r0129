@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR6r0129/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 闕名小莊嚴寺梁小莊嚴寺在建業定陰里本是晉零陵王廟地天監六年度禪師起造時有邵文立者世以烹屠為業嘗欲殺一鹿鹿跪而流淚以為不祥鹿懷一麑尋當産育就庖哀切同被刳割因斯患疾眉鬚皆落身瘡並壞後乃深起悔責求道度禪師發大誓願罄捨家資回買此地為立伽藍同泰寺梁武帝改年號大同起同泰寺在臺城內窮竭帑藏造大佛閣七層為火所焚武帝捨身施財以祈佛福自大通以後無年不幸興國禪寺梁武帝天監十三年以錢二十萬易定林前前岡獨龍阜以葬志公永定公主以湯沐之資造浮圖五級於其上十四年即塔前建開善寺升元寺升元寺即瓦棺寺也在城西隅瞰江面後踞崇岡最為古跡纍經兵火略無倣佛李王時升元閣猶在乃梁朝故物大愛敬寺梁武帝普通元年造在蔣山之北高峯上法寶寺梁同泰寺基之半也建康剎録梁武帝大通元年創同泰寺寺處宮後別開一門名大通門帝晨夕講議多遊此門法光寺即梁之蕭帝寺舊傳天監十三年造元絳寺記云不知從昔之名故後人以帝氏目之寶林寺梁天監中武帝與寶公同遊此山見林巒殊勝命建精藍長于寺建康南五里有山岡其間平地庶民雜居有大長于小長于東長于並是地名小長于在瓦棺寺南巷西頭出大江梁初起長于寺
+  hash: sha256:798807aaf625de257b7270edec2edb11ccd19de4139151e0236731e54fc64ec1
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 梁京寺記, id: KR6r0129_T_001-juan-start, juan_n: '001', jhead: 梁京寺記}
+  - {type: 其他, offset: 2, content: 小莊嚴寺, id: KR6r0129_T_001-mulu-1, level: '1'}
+  - {type: 其他, offset: 115, content: 同泰寺, id: KR6r0129_T_001-mulu-2, level: '1'}
+  - {type: 其他, offset: 167, content: 興國禪寺, id: KR6r0129_T_001-mulu-3, level: '1'}
+  - {type: 其他, offset: 224, content: 昇元寺, id: KR6r0129_T_001-mulu-4, level: '1'}
+  - {type: 其他, offset: 271, content: 大愛敬寺, id: KR6r0129_T_001-mulu-5, level: '1'}
+  - {type: 其他, offset: 291, content: 法寶寺, id: KR6r0129_T_001-mulu-6, level: '1'}
+  - {type: 其他, offset: 338, content: 法光寺, id: KR6r0129_T_001-mulu-7, level: '1'}
+  - {type: 其他, offset: 374, content: 寶林寺, id: KR6r0129_T_001-mulu-8, level: '1'}
+  - {type: 其他, offset: 399, content: 長于寺, id: KR6r0129_T_001-mulu-9, level: '1'}
+metadata:
+  title: 梁京寺記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2094.xml
+    old_id: T51n2094
+hash: sha256:a7734ea9be40f5cbc806559512828c201fcf1e149c8a516d83c71b311f7ff3fd

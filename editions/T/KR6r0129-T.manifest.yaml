@@ -1,0 +1,128 @@
+canonical_identifier: bkk:krp/KR6r0129/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0129/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梁京寺記
+  identifiers:
+    krp: KR6r0129
+    cbeta: T51n2094
+    cbeta_old_id: T51n2094
+    authorityid: CA0002059
+    json_key: T2094
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2094.xml
+    old_id: T51n2094
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0129_000-T.yaml, hash: 'sha256:3ded7ac566801a0e2f7057e34e846b7e22e0b0731cc056087ff89ee905aaf2d7'}
+  - {seq: 1, filename: KR6r0129_001-T.yaml, hash: 'sha256:dfe1e7820405f110ba08eda736c92689f212bc768f7c4e8689946a445ff16e73'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0129_000-T.markers.yaml, hash: 'sha256:29cde7c206e9826bb38a6b59c8684dc81260a00dd1a56174794d2c61d9ca3e7c'}
+  - {seq: 1, role: markers, filename: assets/KR6r0129_001-T.markers.yaml, hash: 'sha256:42af554fc0f6319d8ff82397b994048714861ff20efa5114288b99cdcf872534'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0129_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 452
+  label: 梁京寺記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0129_T_001-mulu-1
+    span:
+    - body
+    - 2
+    - 2
+  label: 小莊嚴寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0129_T_001-mulu-2
+    span:
+    - body
+    - 115
+    - 115
+  label: 同泰寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0129_T_001-mulu-3
+    span:
+    - body
+    - 167
+    - 167
+  label: 興國禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0129_T_001-mulu-4
+    span:
+    - body
+    - 224
+    - 224
+  label: 昇元寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0129_T_001-mulu-5
+    span:
+    - body
+    - 271
+    - 271
+  label: 大愛敬寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0129_T_001-mulu-6
+    span:
+    - body
+    - 291
+    - 291
+  label: 法寶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0129_T_001-mulu-7
+    span:
+    - body
+    - 338
+    - 338
+  label: 法光寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0129_T_001-mulu-8
+    span:
+    - body
+    - 374
+    - 374
+  label: 寶林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0129_T_001-mulu-9
+    span:
+    - body
+    - 399
+    - 399
+  label: 長于寺
+  type: mulu
+  level: 1
+hash: sha256:92200a924f49fe48512123ee0970c0415592391af70e352eb200fc291f0ff31e
